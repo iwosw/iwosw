@@ -62,10 +62,6 @@ Static study site for Russian CS exam practice with tasks 1-27, short algorithms
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwosw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwosw&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- Public projects: Minecraft mods, Rust tools, web experiments, and study projects.
+- Main languages in active repositories: Java, Rust, TypeScript, JavaScript, GDScript.
+- Profile: [github.com/iwosw](https://github.com/iwosw)
