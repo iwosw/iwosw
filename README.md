@@ -95,5 +95,10 @@ Not everything is public yet, but the private work is a big part of what I build
 
 <p align="center">
   <i>«Взял GT-63, мне нужно ехать быстро.»</i><br />
+  <sub>- IWOSS</sub><br />
+  <br />
+  <sub>or</sub><br />
+  <br />
+  <i>"Close my eyes feel a silhouette over me, all over me."</i><br />
   <sub>- IWOSS</sub>
 </p>
