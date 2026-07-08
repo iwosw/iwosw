@@ -13,6 +13,13 @@
   <a href="https://github.com/iwosw/SafeStep">SafeStep</a>
 </p>
 
+<p align="center">
+  <a href="https://t.me/IW0SS"><img src="https://img.shields.io/badge/Telegram-%40IW0SS-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199230971005/"><img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://open.spotify.com/user/31aso7loopehipn6lrry4qaigimu"><img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <img src="https://img.shields.io/badge/Discord-iw0ss-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: iw0ss" />
+</p>
+
 ---
 
 ## About
@@ -37,6 +44,26 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+## Pulse
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwosw&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwosw&theme=tokyonight" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwosw&theme=tokyonight" alt="Most used commit languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iwosw&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iwosw&theme=tokyonight&utcOffset=3" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwosw&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution activity graph" />
+</p>
 
 ## Public Work
 
