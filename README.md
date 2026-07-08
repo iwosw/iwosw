@@ -90,3 +90,10 @@ Not everything is public yet, but the private work is a big part of what I build
 - Main public stack: Java, Rust, TypeScript, JavaScript.
 - Main private/experimental stack: GDScript, Java, TypeScript.
 - Profile: [github.com/iwosw](https://github.com/iwosw)
+
+---
+
+<p align="center">
+  <i>«Взял GT-63, мне нужно ехать быстро.»</i><br />
+  <sub>- IWOSS</sub>
+</p>
