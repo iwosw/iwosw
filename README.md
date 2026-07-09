@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/iwosw?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/iwosw/consilium-regum">Consilium Regum</a> ·
   <a href="https://github.com/iwosw/nature">Nature</a> ·
   <a href="https://github.com/iwosw/Vivarium-Libera">Vivarium Libera</a> ·
   <a href="https://github.com/iwosw/lumen-et-signum">Lumen et Signum</a> ·
@@ -27,7 +28,7 @@
 I build projects where mechanics, persistence, networking, and tooling matter. Most of my work is game-adjacent: Minecraft mods with custom world rules, Rust-backed engines, embedded tooling, and interactive web projects.
 
 - Minecraft modding: NeoForge/Forge, Java 21, registries, mixins, custom payload networking, saved data, data generation, optional mod integrations.
-- Game systems: terrain generation, biome logic, entity simulation, agriculture, livestock, combat, quests, progression, saves, and server rules.
+- Game systems: terrain generation, biome logic, entity simulation, AI control layers, agriculture, livestock, combat, quests, progression, saves, and server rules.
 - Rust tooling: JNI native libraries, desktop apps, parsers/DSLs, serial protocols, ESP32 firmware, and capability checks.
 - Web: React, Vite, TypeScript, static sites, interactive learning tools, and polished UI flows.
 
@@ -37,6 +38,8 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 ![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-orange?style=flat-square)
 ![Forge](https://img.shields.io/badge/Forge-Modding-orange?style=flat-square)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -66,6 +69,11 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 </p>
 
 ## Public Work
+
+### AI And Runtime Tools
+
+[**Consilium Regum**](https://github.com/iwosw/consilium-regum)  
+Experimental AI control layer for WorldBox built with Python and C#. It reads save/autosave/live runtime state, generates ruler and unit decisions through local or remote LLMs with heuristic fallback, validates dry-run apply plans, exports guarded runtime sidecars, and uses a BepInEx plugin with fail-closed safety gates before live mutation.
 
 ### Minecraft And Game Systems
 
@@ -114,7 +122,7 @@ Not everything is public yet, but the private work is a big part of what I build
 
 ## GitHub
 
-- Main public stack: Java, Rust, TypeScript, JavaScript.
+- Main public stack: Java, Python, C#, Rust, TypeScript, JavaScript.
 - Main private/experimental stack: GDScript, Java, TypeScript.
 - Profile: [github.com/iwosw](https://github.com/iwosw)
 
