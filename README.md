@@ -2,12 +2,13 @@
 
 <p align="center">
   <b>Systems-heavy game and tooling developer</b><br />
-  NeoForge mods, Rust native engines, ESP32 tooling, Godot prototypes, and focused web apps.
+  NeoForge and Forge mods, Rust native engines, ESP32 tooling, Godot prototypes, and focused web apps.
 </p>
 
 <p align="center">
   <a href="https://github.com/iwosw?tab=repositories">Repositories</a> ·
   <a href="https://github.com/iwosw/consilium-regum">Consilium Regum</a> ·
+  <a href="https://github.com/iwosw/recruits-use-boomsticks">Recruits Use Boomsticks</a> ·
   <a href="https://github.com/iwosw/nature">Nature</a> ·
   <a href="https://github.com/iwosw/Vivarium-Libera">Vivarium Libera</a> ·
   <a href="https://github.com/iwosw/lumen-et-signum">Lumen et Signum</a> ·
@@ -77,6 +78,12 @@ Experimental AI control layer for WorldBox built with Python and C#. It reads sa
 
 ### Minecraft And Game Systems
 
+[**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks)<br />
+Forge 1.20.1 compatibility mod that lets Villager Recruits crossbowmen use Medieval Boomsticks firearms and the heavy crossbow. It includes weapon adapters, ammunition and reload handling, mounted behavior, allied-unit friendly-fire protection, configuration, dedicated-server GameTests, CI, and release-ready documentation.
+
+[**BannerMod**](https://github.com/iwosw/mb-check-class)<br />
+Forge 1.20.1 multiplayer kingdom sandbox that unifies settlements, workers, claims, political states, armies, formations, logistics, trade, sieges, and regulated wars. The public repository tracks the active `bannermod` runtime, multiplayer guides, developer status, validation stages, and a structured unfinished-work backlog.
+
 [**Nature**](https://github.com/iwosw/nature)  
 NeoForge 1.21.1 terrain-generation mod backed by Rust through JNI. It has native ABI/layout/algorithm validation, packaged native smoke tests, Java/Rust compatibility checks, generated water provenance, biome climate sampling, wind/current queries, client sync payloads, and a GitHub Actions matrix for Linux, Windows, macOS x86_64, and macOS aarch64 builds.
 
@@ -115,6 +122,7 @@ Not everything is public yet, but the private work is a big part of what I build
 
 ## Current Focus
 
+- Shipping focused compatibility work with tests, clear version contracts, and release-ready documentation.
 - Shipping more complete NeoForge 1.21.1 systems instead of isolated items/blocks.
 - Making Java/Rust boundaries safe enough for real gameplay through validation, smoke tests, and compatibility hashes.
 - Building simulation-heavy mechanics: terrain, water, seasons, diseases, livestock, settlements, and progression loops.
