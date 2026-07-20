@@ -49,6 +49,36 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
+## Project Previews
+
+<p align="center">
+  <a href="https://iwosw.github.io/SafeStep/">
+    <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/safestep-preview.png" alt="SafeStep interactive digital-hygiene platform" width="820" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>SafeStep</b> вЂ” interactive digital-hygiene platform</sub>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/iwosw/Vivarium-Libera">
+        <img src="https://raw.githubusercontent.com/iwosw/Vivarium-Libera/main/assets/vivarium-libera-logo.png" alt="Vivarium Libera" height="150" />
+      </a><br />
+      <b>Vivarium Libera</b><br />
+      <sub>Nature and herbalism expansion for Minecraft</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/iwosw/recruits-use-boomsticks">
+        <img src="https://raw.githubusercontent.com/iwosw/recruits-use-boomsticks/master/assets/recruits-use-boomsticks-logo.png" alt="Recruits Use Boomsticks" height="150" />
+      </a><br />
+      <b>Recruits Use Boomsticks</b><br />
+      <sub>Firearms compatibility for Villager Recruits</sub>
+    </td>
+  </tr>
+</table>
 ## Pulse
 
 <p align="center">
@@ -56,19 +86,8 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwosw&theme=tokyonight" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwosw&theme=tokyonight" alt="Most used commit languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iwosw&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iwosw&theme=tokyonight&utcOffset=3" alt="Productive time" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwosw&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution activity graph" />
 </p>
-
 ## Public Work
 
 ### AI And Runtime Tools
@@ -112,14 +131,11 @@ React/Vite/TypeScript digital-hygiene hub with routes, animated page transitions
 [**Unified-State-Exam-CS**](https://github.com/iwosw/Unified-State-Exam-CS)  
 Static study site for Russian CS exam practice with tasks 1-27, short algorithms, code templates, search, SVG assets, and GitHub Pages deployment.
 
-## Private And In Progress
+## Currently Building
 
-Not everything is public yet, but the private work is a big part of what I build.
-
-- Godot 4 mercenary-manager prototype for Yandex Games: a hand-drawn world map, 25+ points of interest, road costs, threat previews, auto-combat, enemy tables, quests, random road events, inventory, equipment sets, hiring, healing, permadeath, prestige, local saves, and prepared Yandex SDK hooks for ads, cloud saves, and leaderboards.
-- Minecraft server systems: claims, settlements, war/peace state, Recruits/Workers/JourneyMap integrations, serf/recruit conversion, villager biology, RP names, knowledge sync, food spoilage, custom buffalo behavior, ownership tools, and server-specific gameplay rules.
-- Experimental notes and prototypes for shops, websites, and content pipelines.
-
+- A Godot 4 mercenary-manager prototype for Yandex Games with exploration, quests, progression, and permadeath.
+- Minecraft server systems centered on settlements, claims, regulated wars, AI units, and mod integrations.
+- Experimental commerce, web, and content-pipeline prototypes.
 ## Current Focus
 
 - Shipping focused compatibility work with tests, clear version contracts, and release-ready documentation.
