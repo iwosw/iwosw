@@ -49,51 +49,6 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-## Project Previews
-
-<p align="center">
-  <a href="https://iwosw.github.io/SafeStep/">
-    <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/safestep-preview.png" alt="SafeStep interactive digital-hygiene platform" width="820" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><b>SafeStep</b> вЂ” interactive digital-hygiene platform</sub>
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/iwosw/Vivarium-Libera">
-        <img src="https://raw.githubusercontent.com/iwosw/Vivarium-Libera/main/assets/vivarium-libera-logo.png" alt="Vivarium Libera" height="150" />
-      </a><br />
-      <b>Vivarium Libera</b><br />
-      <sub>Nature and herbalism expansion for Minecraft</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/iwosw/recruits-use-boomsticks">
-        <img src="https://raw.githubusercontent.com/iwosw/recruits-use-boomsticks/master/assets/recruits-use-boomsticks-logo.png" alt="Recruits Use Boomsticks" height="150" />
-      </a><br />
-      <b>Recruits Use Boomsticks</b><br />
-      <sub>Firearms compatibility for Villager Recruits</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/iwosw/nature">
-        <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/nature-cover.png" alt="Nature" height="220" />
-      </a><br />
-      <b>Nature</b><br />
-      <sub>Rust-backed terrain generation for Minecraft</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/iwosw/lumen-et-signum">
-        <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/lumen-et-signum-cover.png" alt="Lumen et Signum" height="220" />
-      </a><br />
-      <b>Lumen et Signum</b><br />
-      <sub>Rust control panel and tooling for ESP32</sub>
-    </td>
-  </tr></table>
 ## Pulse
 
 <p align="center">
