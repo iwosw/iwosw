@@ -78,7 +78,22 @@ I build projects where mechanics, persistence, networking, and tooling matter. M
       <sub>Firearms compatibility for Villager Recruits</sub>
     </td>
   </tr>
-</table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/iwosw/nature">
+        <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/nature-cover.png" alt="Nature" height="220" />
+      </a><br />
+      <b>Nature</b><br />
+      <sub>Rust-backed terrain generation for Minecraft</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/iwosw/lumen-et-signum">
+        <img src="https://raw.githubusercontent.com/iwosw/iwosw/main/assets/lumen-et-signum-cover.png" alt="Lumen et Signum" height="220" />
+      </a><br />
+      <b>Lumen et Signum</b><br />
+      <sub>Rust control panel and tooling for ESP32</sub>
+    </td>
+  </tr></table>
 ## Pulse
 
 <p align="center">
