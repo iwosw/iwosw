@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/iwoss-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/iwoss-banner-light.png">
+  <img src="./assets/iwoss-banner-light.png" width="100%" alt="IWOSS banner">
+</picture>
+
 <h1 align="center">IWOSS / iwosw</h1>
 
 <p align="center">
