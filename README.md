@@ -90,10 +90,10 @@ Alpha or experimental projects. Expect changing APIs, incomplete content, and ro
 
 <p align="center">
   <i>«Взял GT-63, мне нужно ехать быстро.»</i><br />
-  <sub>- IWOSS</sub><br />
+  <sub>- Dmitriy Korolev</sub><br />
   <br />
   <sub>or</sub><br />
   <br />
   <i>"Close my eyes feel a silhouette over me, all over me."</i><br />
-  <sub>- IWOSS</sub>
+  <sub>- Madelen Dressler</sub>
 </p>
