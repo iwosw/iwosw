@@ -1,8 +1,14 @@
 <h1 align="center">IWOSS / iwosw</h1>
 
 <p align="center">
-  <b>Junior Java developer — Forge & NeoForge mods</b><br />
-  I run a small production Minecraft server, so most of what I build starts as "this broke on my server".
+  <b>Java / Minecraft mod developer — Forge & NeoForge</b><br />
+  I build mods and server tools around the problems I actually run into while running a live Minecraft server.
+</p>
+
+<p align="center">
+  <a href="https://github.com/iwosw?tab=repositories">Repositories</a> ·
+  <a href="https://www.curseforge.com/members/iwoss/projects">CurseForge</a> ·
+  <a href="https://modrinth.com/user/IWOSS_">Modrinth</a>
 </p>
 
 <p align="center">
@@ -16,11 +22,11 @@
 
 ## About
 
-I'm a junior developer working mostly in Java 21 on Minecraft mods for Forge and NeoForge. I also admin a live server, which is where most of my ideas (and most of my bugs) come from — mod conflicts, grief detection, players finding holes in mechanics I thought were fine.
+I work mostly in Java 21 on Minecraft mods for Forge and NeoForge. Running a live server gives me real problems to solve: compatibility, security, world rules, and mechanics that have to survive actual players.
 
-I use AI tooling heavily in my workflow: boilerplate, mapping unfamiliar APIs, reviewing my own diffs. I read, run and debug everything myself before it ships.
+I use AI tools for boilerplate, unfamiliar APIs, and review — but I read, run, and debug everything before it ships.
 
-**Currently learning:** mixins, custom payload networking, and writing real tests for mod logic instead of testing by hand in-game.
+**Currently learning:** mixins, custom payload networking, and better automated tests for mod logic.
 
 ## Tech
 
@@ -35,63 +41,44 @@ Learning on the side:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
-## Working
+## Published
 
-Finished enough that I actually use them and other people can install them.
+The main projects I maintain and release for other people to use.
 
-[**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks) — Forge 1.20.1<br />
-Compatibility mod so Villager Recruits crossbowmen can use Medieval Boomsticks firearms and the heavy crossbow. Weapon adapters, ammo and reload handling, mounted behaviour, friendly-fire protection for allied units, config, dedicated-server GameTests and CI. Small scope on purpose — it does one thing and it's done.
+[**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks) — Forge 1.20.1 compatibility mod that lets Villager Recruits crossbowmen use Medieval Boomsticks weapons. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recruits-use-boomsticks) and [Modrinth](https://modrinth.com/mod/recruits-use-boomsticks).
 
-[**SafeStep**](https://github.com/iwosw/SafeStep) — React / Vite / TypeScript<br />
-Digital-hygiene learning hub: articles, a quiz, a phishing trainer, privacy simulation tools, theme switching. My main non-Java project.
+[**Server Login**](https://github.com/iwosw/server-login) — server-only password authentication for offline-mode Forge servers. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/server-login).
 
-[**Unified-State-Exam-CS**](https://github.com/iwosw/Unified-State-Exam-CS) — JavaScript<br />
-Static study site for the Russian CS exam (ЕГЭ): tasks 1–27, short algorithms, code templates, search, deployed on GitHub Pages.
+[**Workers Ore Compat**](https://github.com/iwosw/workers-ore-compat) — configurable ore recognition and pickup for Villager Workers miners. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/workers-ore-compat).
+
+## Other public work
+
+[**SafeStep**](https://github.com/iwosw/SafeStep) — React / Vite / TypeScript digital-hygiene learning hub.
+
+[**Unified-State-Exam-CS**](https://github.com/iwosw/Unified-State-Exam-CS) — static study site for the Russian CS exam (ЕГЭ).
 
 ## In progress
 
-Alpha or half-built. Expect broken saves, missing textures and changing APIs. Issues and feedback welcome — just don't put these on a live server yet.
+Alpha or experimental projects. Expect changing APIs, incomplete content, and rough edges.
 
-[**Vivarium Libera**](https://github.com/iwosw/Vivarium-Libera) — NeoForge 1.21.1<br />
-Nature and herbalism expansion: plants, herbalist tools, block entities, a herbalist book UI, plum wood set, stream worldgen, GeckoLib, Farmer's Delight integration, datagen. Content and worldgen still landing.
+[**Vivarium Libera**](https://github.com/iwosw/Vivarium-Libera) — NeoForge nature and herbalism expansion.
 
-[**Millenaire Universalis**](https://github.com/iwosw/millenaire-universalis) — NeoForge 1.21.1<br />
-Millenaire addon: factions, armies, logistics, realms, tactical combat. Biggest thing I've started; early days.
+[**Millenaire Universalis**](https://github.com/iwosw/millenaire-universalis) — NeoForge addon focused on factions, armies, logistics, and realms.
 
-[**Animalis Agricultura**](https://github.com/iwosw/animalis-agricultura) — NeoForge 1.21.1<br />
-Livestock simulation: sex assignment, pregnancy, litters, nests, feeders, lactation, manure, inherited coat variants, custom payload networking. Balancing is nowhere near done.
+[**Animalis Agricultura**](https://github.com/iwosw/animalis-agricultura) — livestock simulation for breeding, feeding, pregnancy, and inherited variants.
 
-[**Cultio**](https://github.com/iwosw/cultio) — NeoForge 1.21.1<br />
-Agriculture overhaul: seasonal growth, regional planting rules, crop disease and rotation, weeds, Serene Seasons integration, saved field data, in-game guide. Early alpha.
+[**Cultio**](https://github.com/iwosw/cultio) — agriculture overhaul with seasons, crop disease, rotation, and weeds.
 
-[**Nature**](https://github.com/iwosw/nature) — NeoForge 1.21.1 + Rust (JNI)<br />
-Terrain generation with a Rust backend over JNI, with ABI/layout validation, native smoke tests and a multi-OS build matrix. Early alpha, and honestly still an experiment in whether JNI is worth the complexity here.
+[**Nature**](https://github.com/iwosw/nature) — NeoForge terrain generation experiment with a Rust/JNI backend.
 
-[**Caelum**](https://github.com/iwosw/caelum) — Forge, server-side<br />
-Skybase and world-integrity detection: delayed stability scanning, illegal fluid cleanup, commands, webhook alerts. Works on my server, but it's shaped around my setup — needs cleanup before I'd call it done.
+[**Caelum**](https://github.com/iwosw/caelum) — server-side skybase and world-integrity detection.
 
-[**Lumen et Signum**](https://github.com/iwosw/lumen-et-signum) — Rust + ESP32<br />
-Desktop control panel and companion firmware: serial port discovery, `espflash` integration, UART monitor, and EspScript — a small typed DSL. Side project for learning Rust and serial protocols.
+[**Lumen et Signum**](https://github.com/iwosw/lumen-et-signum) — Rust desktop control panel and ESP32 companion firmware.
 
-[**Consilium Regum**](https://github.com/iwosw/consilium-regum) — Python + C#<br />
-Experimental AI control layer for WorldBox rulers and units, with dry-run validation and fail-closed safety gates before any live mutation. Experiment, not a product.
-
----
-
-## Pulse
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwosw&theme=tokyonight" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwosw&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution activity graph" />
-</p>
+[**Consilium Regum**](https://github.com/iwosw/consilium-regum) — experimental AI control layer for WorldBox.
 
 ---
 
