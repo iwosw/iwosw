@@ -54,9 +54,9 @@ Learning on the side:
 
 The main projects I maintain and release for other people to use.
 
-[**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks) — Forge 1.20.1 compatibility mod that lets Villager Recruits crossbowmen use Medieval Boomsticks weapons. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recruits-use-boomsticks) and [Modrinth](https://modrinth.com/mod/recruits-use-boomsticks).
+[**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks) — Forge 1.20.1 compatibility mod that equips Villager Recruits crossbowmen with Medieval Boomsticks and selected EK: Artillery Addon weapons, including reloading AI and coordinated formation fire. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recruits-use-boomsticks) and [Modrinth](https://modrinth.com/mod/recruits-use-boomsticks).
 
-[**Server Login**](https://github.com/iwosw/server-login) — server-only password authentication for offline-mode Forge servers. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/server-login).
+[**Server Login**](https://github.com/iwosw/server-login) — server-only password authentication for offline-mode Forge and NeoForge servers, with no client mod required. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/server-login).
 
 [**Workers Ore Compat**](https://github.com/iwosw/workers-ore-compat) — configurable ore recognition and pickup for Villager Workers miners. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/workers-ore-compat).
 
@@ -66,11 +66,13 @@ The main projects I maintain and release for other people to use.
 
 [**Unified-State-Exam-CS**](https://github.com/iwosw/Unified-State-Exam-CS) — static study site for the Russian CS exam (ЕГЭ).
 
+[**Exploratio Emporii**](https://github.com/iwosw/exploratio-emporii) — field notes on online-store catalogs and web interfaces, covering product search, availability, prices, and specifications.
+
 ## In progress
 
 Alpha or experimental projects. Expect changing APIs, incomplete content, and rough edges.
 
-[**Vivarium Libera**](https://github.com/iwosw/Vivarium-Libera) — NeoForge nature and herbalism expansion.
+[**Vivarium Libera**](https://github.com/iwosw/Vivarium-Libera) — NeoForge 1.21.1 nature, herbalism, and alchemy expansion with medicinal plants, an herbalist's workshop, and brewable decoctions.
 
 [**Millenaire Universalis**](https://github.com/iwosw/millenaire-universalis) — NeoForge addon focused on factions, armies, logistics, and realms.
 
@@ -82,7 +84,7 @@ Alpha or experimental projects. Expect changing APIs, incomplete content, and ro
 
 [**Caelum**](https://github.com/iwosw/caelum) — server-side skybase and world-integrity detection.
 
-[**Lumen et Signum**](https://github.com/iwosw/lumen-et-signum) — Rust desktop control panel and ESP32 companion firmware.
+[**Lumen et Signum**](https://github.com/iwosw/lumen-et-signum) — Rust desktop control panel and ESP32 firmware with a UART monitor, EspScript automation, and a small language model running on the microcontroller.
 
 [**Consilium Regum**](https://github.com/iwosw/consilium-regum) — experimental AI control layer for WorldBox.
 
