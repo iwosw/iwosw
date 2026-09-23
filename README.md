@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Java / Minecraft mod developer — Forge & NeoForge</b><br />
-  I build mods and server tools around the problems I actually run into while running a live Minecraft server.
+  I build mods and server tools around the problems I actually run into while running a live Minecraft server, plus the occasional desktop utility.
 </p>
 
 <p align="center">
@@ -54,6 +54,8 @@ Learning on the side:
 
 The main projects I maintain and release for other people to use.
 
+[**Craftable Gunpowder**](https://github.com/iwosw/craftable-gunpowder) — resource-based gunpowder crafting with sulfur ore, compostable humus, and saltpeter. Separate builds for Fabric, Forge, and NeoForge across multiple Minecraft versions. [Download from Releases](https://github.com/iwosw/craftable-gunpowder/releases/latest).
+
 [**Recruits Use Boomsticks**](https://github.com/iwosw/recruits-use-boomsticks) — Forge 1.20.1 compatibility mod that equips Villager Recruits crossbowmen with Medieval Boomsticks and selected EK: Artillery Addon weapons, including reloading AI and coordinated formation fire. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recruits-use-boomsticks) and [Modrinth](https://modrinth.com/mod/recruits-use-boomsticks).
 
 [**Server Login**](https://github.com/iwosw/server-login) — server-only password authentication for offline-mode Forge and NeoForge servers, with no client mod required. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/server-login).
@@ -61,6 +63,8 @@ The main projects I maintain and release for other people to use.
 [**Workers Ore Compat**](https://github.com/iwosw/workers-ore-compat) — configurable ore recognition and pickup for Villager Workers miners. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/workers-ore-compat).
 
 ## Other public work
+
+[**GeminiPath**](https://github.com/iwosw/gemini-path) — Windows utility for diagnosing Antigravity/Gemini connection issues and applying a reversible, backed-up client patch where supported. [Download the installer](https://github.com/iwosw/gemini-path/releases/latest).
 
 [**SafeStep**](https://github.com/iwosw/SafeStep) — React / Vite / TypeScript digital-hygiene learning hub.
 
